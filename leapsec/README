@@ -1,0 +1,4 @@
+Compile with:
+
+gcc leapsectest.c -o leapsectest -std=c99
+
