@@ -52,7 +52,7 @@ int main(int argc, char *argv[], char *envp[])
 
    printf("Note that the first time the leap-second is printed, it is correct.\n"
           "But after the call to mktime, the structure is updated and the leap-second removed.\n"
-          "This is because most OSs prefer to treat all days as having the same number of seconds.\n"
+          "This is because UTC and most OSs prefer to treat all days as having the same number of seconds.\n"
           "And this is demonstrated in the list of time_ts, which are unable to represent the leap second at all.\n"
           "\n"
           "Some of the consequences of this are:\n"
