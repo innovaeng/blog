@@ -1,2 +1,2 @@
 # blog
-Code and documentation reference in The Packet Company's blog
+Code and documentation referenced in The Packet Company's blog
